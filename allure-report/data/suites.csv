@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Mon Apr 15 18:57:15 CST 2024","Mon Apr 15 18:57:15 CST 2024","282","pytest_learn","test_fixture2","TestBaidu","","","test_baidu2",""
+"passed","Mon Apr 15 18:57:13 CST 2024","Mon Apr 15 18:57:15 CST 2024","1896","pytest_learn","test_fixture2","TestBaidu","","","test_baidu1",""
